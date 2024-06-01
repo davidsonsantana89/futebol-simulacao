@@ -1,0 +1,309 @@
+data,home,away
+2024-06-01,Brusque,Novorizontino
+2024-06-02,Chapecoense-SC,Vila Nova FC
+2024-06-02,Ponte Preta,CRB
+2024-06-02,Ituano,Avai
+2024-06-03,Santos,Botafogo SP
+2024-06-03,Operario,Amazonas
+2024-06-04,Mirassol,Guarani
+2024-06-04,Paysandu PA,America MG
+2024-06-07,Coritiba,Ituano
+2024-06-07,Novorizontino,Santos
+2024-06-08,Amazonas,Brusque
+2024-06-08,CRB,Botafogo SP
+2024-06-08,Guarani,Operario
+2024-06-09,Avai,Chapecoense-SC
+2024-06-09,America MG,Ponte Preta
+2024-06-10,Vila Nova FC,Ceara
+2024-06-10,Sport Recife,Paysandu PA
+2024-06-11,Mirassol,Goias
+2024-06-13,Amazonas,Chapecoense-SC
+2024-06-14,Operario,Santos
+2024-06-14,Avai,Guarani
+2024-06-15,America MG,CRB
+2024-06-15,Ponte Preta,Novorizontino
+2024-06-15,Ituano,Paysandu PA
+2024-06-16,Botafogo SP,Vila Nova FC
+2024-06-16,Brusque,Ceara
+2024-06-16,Goias,Coritiba
+2024-06-16,Sport Recife,Mirassol
+2024-06-17,Chapecoense-SC,Operario
+2024-06-18,Guarani,Ituano
+2024-06-18,Novorizontino,Amazonas
+2024-06-18,Paysandu PA,CRB
+2024-06-19,Santos,Goias
+2024-06-19,Botafogo SP,Ponte Preta
+2024-06-19,Brusque,Avai
+2024-06-19,Coritiba,America MG
+2024-06-20,Vila Nova FC,Mirassol
+2024-06-20,Ceara,Sport Recife
+2024-06-22,CRB,Guarani
+2024-06-22,Operario,Botafogo SP
+2024-06-22,Ituano,Brusque
+2024-06-23,Chapecoense-SC,Paysandu PA
+2024-06-23,Vila Nova FC,Goias
+2024-06-24,Sport Recife,Novorizontino
+2024-06-25,America MG,Avai
+2024-06-25,Mirassol,Santos
+2024-06-25,Ponte Preta,Ceara
+2024-06-25,Amazonas,Coritiba
+2024-06-28,Avai,Amazonas
+2024-06-29,Coritiba,Vila Nova FC
+2024-06-29,Botafogo SP,Sport Recife
+2024-06-29,Ceara,Ituano
+2024-06-30,Paysandu PA,Operario
+2024-06-30,Guarani,Ponte Preta
+2024-07-01,Santos,Chapecoense-SC
+2024-07-01,CRB,Brusque
+2024-07-02,Goias,America MG
+2024-07-02,Novorizontino,Mirassol
+2024-07-05,Ceara,Santos
+2024-07-05,Brusque,Ponte Preta
+2024-07-06,America MG,Operario
+2024-07-06,Goias,Chapecoense-SC
+2024-07-07,Coritiba,Paysandu PA
+2024-07-07,Ituano,Botafogo SP
+2024-07-07,Guarani,Sport Recife
+2024-07-08,Amazonas,Vila Nova FC
+2024-07-09,Avai,Novorizontino
+2024-07-09,Mirassol,CRB
+2024-07-12,Ponte Preta,Mirassol
+2024-07-12,Botafogo SP,Amazonas
+2024-07-12,Paysandu PA,Ceara
+2024-07-13,Novorizontino,Guarani
+2024-07-13,Operario,Goias
+2024-07-13,CRB,Coritiba
+2024-07-14,Vila Nova FC,Avai
+2024-07-14,Sport Recife,America MG
+2024-07-15,Santos,Ituano
+2024-07-15,Chapecoense-SC,Brusque
+2024-07-20,America MG,Amazonas
+2024-07-20,Avai,Ceara
+2024-07-20,Botafogo SP,Brusque
+2024-07-20,Coritiba,Mirassol
+2024-07-20,CRB,Ituano
+2024-07-20,Guarani,Goias
+2024-07-20,Novorizontino,Chapecoense-SC
+2024-07-20,Paysandu PA,Ponte Preta
+2024-07-20,Sport Recife,Operario
+2024-07-20,Vila Nova FC,Santos
+2024-07-24,Amazonas,Guarani
+2024-07-24,Brusque,Paysandu PA
+2024-07-24,Ceara,Botafogo SP
+2024-07-24,Chapecoense-SC,Sport Recife
+2024-07-24,Goias,CRB
+2024-07-24,Ituano,America MG
+2024-07-24,Mirassol,Avai
+2024-07-24,Operario,Novorizontino
+2024-07-24,Ponte Preta,Vila Nova FC
+2024-07-24,Santos,Coritiba
+2024-07-27,America MG,Ceara
+2024-07-27,Avai,Botafogo SP
+2024-07-27,Coritiba,Chapecoense-SC
+2024-07-27,CRB,Santos
+2024-07-27,Goias,Amazonas
+2024-07-27,Guarani,Brusque
+2024-07-27,Ituano,Vila Nova FC
+2024-07-27,Mirassol,Operario
+2024-07-27,Paysandu PA,Novorizontino
+2024-07-27,Sport Recife,Ponte Preta
+2024-08-03,Amazonas,Ituano
+2024-08-03,Botafogo SP,Coritiba
+2024-08-03,Brusque,America MG
+2024-08-03,Ceara,Guarani
+2024-08-03,Chapecoense-SC,Mirassol
+2024-08-03,Novorizontino,Goias
+2024-08-03,Operario,CRB
+2024-08-03,Ponte Preta,Avai
+2024-08-03,Santos,Sport Recife
+2024-08-03,Vila Nova FC,Paysandu PA
+2024-08-10,America MG,Botafogo SP
+2024-08-10,Avai,Operario
+2024-08-10,Coritiba,Ponte Preta
+2024-08-10,CRB,Novorizontino
+2024-08-10,Goias,Ceara
+2024-08-10,Guarani,Vila Nova FC
+2024-08-10,Ituano,Chapecoense-SC
+2024-08-10,Mirassol,Brusque
+2024-08-10,Paysandu PA,Santos
+2024-08-10,Sport Recife,Amazonas
+2024-08-17,Amazonas,CRB
+2024-08-17,Botafogo SP,Paysandu PA
+2024-08-17,Brusque,Coritiba
+2024-08-17,Ceara,Mirassol
+2024-08-17,Chapecoense-SC,Guarani
+2024-08-17,Novorizontino,America MG
+2024-08-17,Operario,Ituano
+2024-08-17,Ponte Preta,Goias
+2024-08-17,Santos,Avai
+2024-08-17,Vila Nova FC,Sport Recife
+2024-08-21,Amazonas,Ponte Preta
+2024-08-21,America MG,Chapecoense-SC
+2024-08-21,Avai,Paysandu PA
+2024-08-21,CRB,Ceara
+2024-08-21,Goias,Brusque
+2024-08-21,Guarani,Santos
+2024-08-21,Mirassol,Botafogo SP
+2024-08-21,Novorizontino,Ituano
+2024-08-21,Operario,Vila Nova FC
+2024-08-21,Sport Recife,Coritiba
+2024-08-24,Botafogo SP,Guarani
+2024-08-24,Brusque,Sport Recife
+2024-08-24,Ceara,Novorizontino
+2024-08-24,Chapecoense-SC,CRB
+2024-08-24,Coritiba,Avai
+2024-08-24,Ituano,Goias
+2024-08-24,Paysandu PA,Mirassol
+2024-08-24,Ponte Preta,Operario
+2024-08-24,Santos,Amazonas
+2024-08-24,Vila Nova FC,America MG
+2024-08-31,Amazonas,Ceara
+2024-08-31,Chapecoense-SC,Botafogo SP
+2024-08-31,CRB,Avai
+2024-08-31,Goias,Paysandu PA
+2024-08-31,Guarani,Coritiba
+2024-08-31,Mirassol,America MG
+2024-08-31,Novorizontino,Vila Nova FC
+2024-08-31,Operario,Brusque
+2024-08-31,Santos,Ponte Preta
+2024-08-31,Sport Recife,Ituano
+2024-09-07,America MG,Guarani
+2024-09-07,Avai,Sport Recife
+2024-09-07,Botafogo SP,Goias
+2024-09-07,Brusque,Santos
+2024-09-07,Ceara,Operario
+2024-09-07,Coritiba,Novorizontino
+2024-09-07,Ituano,Mirassol
+2024-09-07,Paysandu PA,Amazonas
+2024-09-07,Ponte Preta,Chapecoense-SC
+2024-09-07,Vila Nova FC,CRB
+2024-09-14,Brusque,Vila Nova FC
+2024-09-14,Chapecoense-SC,Ceara
+2024-09-14,Goias,Avai
+2024-09-14,Mirassol,Amazonas
+2024-09-14,Novorizontino,Botafogo SP
+2024-09-14,Operario,Coritiba
+2024-09-14,Paysandu PA,Guarani
+2024-09-14,Ponte Preta,Ituano
+2024-09-14,Santos,America MG
+2024-09-14,Sport Recife,CRB
+2024-09-18,Amazonas,Operario
+2024-09-18,America MG,Paysandu PA
+2024-09-18,Avai,Ituano
+2024-09-18,Botafogo SP,Santos
+2024-09-18,Coritiba,Ceara
+2024-09-18,CRB,Ponte Preta
+2024-09-18,Guarani,Mirassol
+2024-09-18,Novorizontino,Brusque
+2024-09-18,Sport Recife,Goias
+2024-09-18,Vila Nova FC,Chapecoense-SC
+2024-09-21,Botafogo SP,CRB
+2024-09-21,Brusque,Amazonas
+2024-09-21,Ceara,Vila Nova FC
+2024-09-21,Chapecoense-SC,Avai
+2024-09-21,Goias,Mirassol
+2024-09-21,Ituano,Coritiba
+2024-09-21,Operario,Guarani
+2024-09-21,Paysandu PA,Sport Recife
+2024-09-21,Ponte Preta,America MG
+2024-09-21,Santos,Novorizontino
+2024-09-28,Ceara,Brusque
+2024-09-28,Chapecoense-SC,Amazonas
+2024-09-28,Coritiba,Goias
+2024-09-28,CRB,America MG
+2024-09-28,Guarani,Avai
+2024-09-28,Mirassol,Sport Recife
+2024-09-28,Novorizontino,Ponte Preta
+2024-09-28,Paysandu PA,Ituano
+2024-09-28,Santos,Operario
+2024-09-28,Vila Nova FC,Botafogo SP
+2024-10-05,Amazonas,Novorizontino
+2024-10-05,America MG,Coritiba
+2024-10-05,Avai,Brusque
+2024-10-05,CRB,Paysandu PA
+2024-10-05,Goias,Santos
+2024-10-05,Ituano,Guarani
+2024-10-05,Mirassol,Vila Nova FC
+2024-10-05,Operario,Chapecoense-SC
+2024-10-05,Ponte Preta,Botafogo SP
+2024-10-05,Sport Recife,Ceara
+2024-10-12,Avai,America MG
+2024-10-12,Botafogo SP,Operario
+2024-10-12,Brusque,Ituano
+2024-10-12,Ceara,Ponte Preta
+2024-10-12,Coritiba,Amazonas
+2024-10-12,Goias,Vila Nova FC
+2024-10-12,Guarani,CRB
+2024-10-12,Novorizontino,Sport Recife
+2024-10-12,Paysandu PA,Chapecoense-SC
+2024-10-12,Santos,Mirassol
+2024-10-19,Amazonas,Avai
+2024-10-19,America MG,Goias
+2024-10-19,Brusque,CRB
+2024-10-19,Chapecoense-SC,Santos
+2024-10-19,Ituano,Ceara
+2024-10-19,Mirassol,Novorizontino
+2024-10-19,Operario,Paysandu PA
+2024-10-19,Ponte Preta,Guarani
+2024-10-19,Sport Recife,Botafogo SP
+2024-10-19,Vila Nova FC,Coritiba
+2024-10-23,Botafogo SP,Ituano
+2024-10-23,Chapecoense-SC,Goias
+2024-10-23,CRB,Mirassol
+2024-10-23,Novorizontino,Avai
+2024-10-23,Operario,America MG
+2024-10-23,Paysandu PA,Coritiba
+2024-10-23,Ponte Preta,Brusque
+2024-10-23,Santos,Ceara
+2024-10-23,Sport Recife,Guarani
+2024-10-23,Vila Nova FC,Amazonas
+2024-10-26,Amazonas,Botafogo SP
+2024-10-26,America MG,Sport Recife
+2024-10-26,Avai,Vila Nova FC
+2024-10-26,Brusque,Chapecoense-SC
+2024-10-26,Ceara,Paysandu PA
+2024-10-26,Coritiba,CRB
+2024-10-26,Goias,Operario
+2024-10-26,Guarani,Novorizontino
+2024-10-26,Ituano,Santos
+2024-10-26,Mirassol,Ponte Preta
+2024-11-06,Amazonas,America MG
+2024-11-06,Brusque,Botafogo SP
+2024-11-06,Ceara,Avai
+2024-11-06,Chapecoense-SC,Novorizontino
+2024-11-06,Goias,Guarani
+2024-11-06,Ituano,CRB
+2024-11-06,Mirassol,Coritiba
+2024-11-06,Operario,Sport Recife
+2024-11-06,Ponte Preta,Paysandu PA
+2024-11-06,Santos,Vila Nova FC
+2024-11-16,America MG,Ituano
+2024-11-16,Avai,Mirassol
+2024-11-16,Botafogo SP,Ceara
+2024-11-16,Coritiba,Santos
+2024-11-16,CRB,Goias
+2024-11-16,Guarani,Amazonas
+2024-11-16,Novorizontino,Operario
+2024-11-16,Paysandu PA,Brusque
+2024-11-16,Sport Recife,Chapecoense-SC
+2024-11-16,Vila Nova FC,Ponte Preta
+2024-11-23,Amazonas,Goias
+2024-11-23,Botafogo SP,Avai
+2024-11-23,Brusque,Guarani
+2024-11-23,Ceara,America MG
+2024-11-23,Chapecoense-SC,Coritiba
+2024-11-23,Novorizontino,Paysandu PA
+2024-11-23,Operario,Mirassol
+2024-11-23,Ponte Preta,Sport Recife
+2024-11-23,Santos,CRB
+2024-11-23,Vila Nova FC,Ituano
+2024-11-26,America MG,Brusque
+2024-11-26,Avai,Ponte Preta
+2024-11-26,Coritiba,Botafogo SP
+2024-11-26,CRB,Operario
+2024-11-26,Goias,Novorizontino
+2024-11-26,Guarani,Ceara
+2024-11-26,Ituano,Amazonas
+2024-11-26,Mirassol,Chapecoense-SC
+2024-11-26,Paysandu PA,Vila Nova FC
+2024-11-26,Sport Recife,Santos
