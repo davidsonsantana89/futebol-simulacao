@@ -1,312 +1,312 @@
-,data,home,away
-0,2024-06-09,Criciuma,Cuiaba
-1,2024-06-11,Bragantino,Atletico-MG
-2,2024-06-11,Atletico GO,Corinthians
-3,2024-06-11,Juventude,Vitoria
-4,2024-06-11,Botafogo RJ,Fluminense
-5,2024-06-13,Athletico-PR,Criciuma
-6,2024-06-13,Flamengo RJ,Gremio
-7,2024-06-13,Internacional,Sao Paulo
-8,2024-06-13,Bahia,Fortaleza
-9,2024-06-13,Palmeiras,Vasco
-10,2024-06-13,Cruzeiro,Cuiaba
-11,2024-06-15,Bragantino,Juventude
-12,2024-06-15,Fluminense,Atletico GO
-13,2024-06-16,Vasco,Cruzeiro
-14,2024-06-16,Athletico-PR,Flamengo RJ
-15,2024-06-16,Corinthians,Sao Paulo
-16,2024-06-16,Vitoria,Internacional
-17,2024-06-16,Criciuma,Bahia
-18,2024-06-16,Cuiaba,Fortaleza
-19,2024-06-16,Gremio,Botafogo RJ
-20,2024-06-17,Atletico-MG,Palmeiras
-21,2024-06-19,Atletico GO,Criciuma
-22,2024-06-19,Fortaleza,Gremio
-23,2024-06-19,Juventude,Vasco
-24,2024-06-19,Sao Paulo,Cuiaba
-25,2024-06-19,Cruzeiro,Fluminense
-26,2024-06-19,Internacional,Corinthians
-27,2024-06-19,Botafogo RJ,Athletico-PR
-28,2024-06-20,Vitoria,Atletico-MG
-29,2024-06-20,Flamengo RJ,Bahia
-30,2024-06-20,Palmeiras,Bragantino
-31,2024-06-22,Criciuma,Botafogo RJ
-32,2024-06-22,Cuiaba,Atletico GO
-33,2024-06-22,Vasco,Sao Paulo
-34,2024-06-23,Bragantino,Vitoria
-35,2024-06-23,Palmeiras,Juventude
-36,2024-06-23,Bahia,Cruzeiro
-37,2024-06-23,Atletico-MG,Fortaleza
-38,2024-06-23,Gremio,Internacional
-39,2024-06-23,Fluminense,Flamengo RJ
-40,2024-06-23,Athletico-PR,Corinthians
-41,2024-06-26,Bahia,Juventude
-42,2024-06-26,Fluminense,Internacional
-43,2024-06-26,Botafogo RJ,Bragantino
-44,2024-06-26,Corinthians,Cuiaba
-45,2024-06-26,Cruzeiro,Athletico-PR
-46,2024-06-26,Atletico GO,Gremio
-47,2024-06-26,Juventude,Flamengo RJ
-48,2024-06-26,Bahia,Vasco
-49,2024-06-26,Fortaleza,Palmeiras
-50,2024-06-26,Internacional,Atletico-MG
-51,2024-06-27,Fluminense,Vitoria
-52,2024-06-27,Sao Paulo,Criciuma
-53,2024-06-29,Palmeiras,Corinthians
-54,2024-06-29,Vasco,Botafogo RJ
-55,2024-06-29,Cuiaba,Bragantino
-56,2024-06-30,Atletico-MG,Atletico GO
-57,2024-06-30,Fortaleza,Juventude
-58,2024-06-30,Gremio,Fluminense
-59,2024-06-30,Sao Paulo,Bahia
-60,2024-06-30,Criciuma,Internacional
-61,2024-06-30,Flamengo RJ,Cruzeiro
-62,2024-06-30,Vitoria,Athletico-PR
-63,2024-07-03,Vasco,Fortaleza
-64,2024-07-03,Criciuma,Cruzeiro
-65,2024-07-03,Corinthians,Vitoria
-66,2024-07-03,Cuiaba,Botafogo RJ
-67,2024-07-03,Bragantino,Atletico GO
-68,2024-07-03,Vitoria,Botafogo RJ
-69,2024-07-03,Vasco,Corinthians
-70,2024-07-03,Atletico-MG,Flamengo RJ
-71,2024-07-03,Gremio,Cruzeiro
-72,2024-07-03,Palmeiras,Atletico GO
-73,2024-07-03,Athletico-PR,Bahia
-74,2024-07-03,Atletico-MG,Sao Paulo
-75,2024-07-03,Athletico-PR,Sao Paulo
-76,2024-07-03,Criciuma,Fluminense
-77,2024-07-03,Flamengo RJ,Fortaleza
-78,2024-07-03,Bragantino,Internacional
-79,2024-07-03,Cuiaba,Juventude
-80,2024-07-04,Gremio,Palmeiras
-81,2024-07-06,Atletico GO,Vasco
-82,2024-07-06,Bahia,Cuiaba
-83,2024-07-06,Botafogo RJ,Palmeiras
-84,2024-07-06,Corinthians,Criciuma
-85,2024-07-06,Cruzeiro,Bragantino
-86,2024-07-06,Fluminense,Athletico-PR
-87,2024-07-06,Internacional,Flamengo RJ
-88,2024-07-06,Juventude,Atletico-MG
-89,2024-07-06,Sao Paulo,Gremio
-90,2024-07-06,Flamengo RJ,Cuiaba
-91,2024-07-06,Sao Paulo,Bragantino
-92,2024-07-06,Vitoria,Criciuma
-93,2024-07-06,Fortaleza,Vitoria
-94,2024-07-07,Atletico GO,Athletico-PR
-95,2024-07-07,Fortaleza,Fluminense
-96,2024-07-07,Palmeiras,Bahia
-97,2024-07-07,Botafogo RJ,Atletico-MG
-98,2024-07-07,Juventude,Gremio
-99,2024-07-07,Cruzeiro,Corinthians
-100,2024-07-08,Internacional,Vasco
-101,2024-07-10,Atletico-MG,Vasco
-102,2024-07-10,Bahia,Corinthians
-103,2024-07-10,Botafogo RJ,Internacional
-104,2024-07-10,Bragantino,Athletico-PR
-105,2024-07-10,Cuiaba,Fluminense
-106,2024-07-10,Fortaleza,Atletico GO
-107,2024-07-10,Gremio,Vitoria
-108,2024-07-10,Juventude,Sao Paulo
-109,2024-07-10,Palmeiras,Cruzeiro
-110,2024-07-10,Flamengo RJ,Criciuma
-111,2024-07-17,Internacional,Fortaleza
-112,2024-07-17,Vasco,Cuiaba
-113,2024-07-17,Sao Paulo,Botafogo RJ
-114,2024-07-17,Vitoria,Flamengo RJ
-115,2024-07-17,Fluminense,Palmeiras
-116,2024-07-17,Criciuma,Bragantino
-117,2024-07-17,Cruzeiro,Juventude
-118,2024-07-17,Corinthians,Gremio
-119,2024-07-17,Athletico-PR,Atletico-MG
-120,2024-07-17,Atletico GO,Bahia
-121,2024-07-20,Atletico-MG,Corinthians
-122,2024-07-20,Bahia,Internacional
-123,2024-07-20,Botafogo RJ,Cruzeiro
-124,2024-07-20,Bragantino,Fluminense
-125,2024-07-20,Cuiaba,Athletico-PR
-126,2024-07-20,Flamengo RJ,Atletico GO
-127,2024-07-20,Fortaleza,Sao Paulo
-128,2024-07-20,Gremio,Vasco
-129,2024-07-20,Juventude,Criciuma
-130,2024-07-20,Palmeiras,Vitoria
-131,2024-07-27,Internacional,Palmeiras
-132,2024-07-27,Vitoria,Cuiaba
-133,2024-07-27,Vasco,Bragantino
-134,2024-07-27,Sao Paulo,Flamengo RJ
-135,2024-07-27,Fluminense,Bahia
-136,2024-07-27,Criciuma,Atletico-MG
-137,2024-07-27,Corinthians,Juventude
-138,2024-07-27,Atletico GO,Botafogo RJ
-139,2024-07-27,Athletico-PR,Gremio
-140,2024-07-27,Cruzeiro,Fortaleza
-141,2024-08-03,Vasco,Fluminense
-142,2024-08-03,Sao Paulo,Atletico GO
-143,2024-08-03,Juventude,Botafogo RJ
-144,2024-08-03,Internacional,Athletico-PR
-145,2024-08-03,Fortaleza,Criciuma
-146,2024-08-03,Cuiaba,Gremio
-147,2024-08-03,Cruzeiro,Atletico-MG
-148,2024-08-03,Corinthians,Bragantino
-149,2024-08-03,Bahia,Vitoria
-150,2024-08-03,Flamengo RJ,Palmeiras
-151,2024-08-10,Athletico-PR,Juventude
-152,2024-08-10,Atletico GO,Internacional
-153,2024-08-10,Atletico-MG,Cuiaba
-154,2024-08-10,Botafogo RJ,Flamengo RJ
-155,2024-08-10,Bragantino,Fortaleza
-156,2024-08-10,Fluminense,Corinthians
-157,2024-08-10,Vitoria,Cruzeiro
-158,2024-08-10,Criciuma,Vasco
-159,2024-08-10,Gremio,Bahia
-160,2024-08-10,Palmeiras,Sao Paulo
-161,2024-08-17,Atletico GO,Juventude
-162,2024-08-17,Atletico-MG,Fluminense
-163,2024-08-17,Bahia,Botafogo RJ
-164,2024-08-17,Criciuma,Gremio
-165,2024-08-17,Flamengo RJ,Bragantino
-166,2024-08-17,Fortaleza,Corinthians
-167,2024-08-17,Internacional,Cruzeiro
-168,2024-08-17,Palmeiras,Cuiaba
-169,2024-08-17,Sao Paulo,Vitoria
-170,2024-08-17,Vasco,Athletico-PR
-171,2024-08-24,Vitoria,Vasco
-172,2024-08-24,Juventude,Internacional
-173,2024-08-24,Gremio,Atletico-MG
-174,2024-08-24,Fluminense,Sao Paulo
-175,2024-08-24,Cuiaba,Criciuma
-176,2024-08-24,Corinthians,Flamengo RJ
-177,2024-08-24,Bragantino,Bahia
-178,2024-08-24,Botafogo RJ,Fortaleza
-179,2024-08-24,Athletico-PR,Palmeiras
-180,2024-08-24,Cruzeiro,Atletico GO
-181,2024-08-31,Palmeiras,Criciuma
-182,2024-08-31,Juventude,Fluminense
-183,2024-08-31,Internacional,Cuiaba
-184,2024-08-31,Flamengo RJ,Vasco
-185,2024-08-31,Bragantino,Gremio
-186,2024-08-31,Botafogo RJ,Corinthians
-187,2024-08-31,Bahia,Atletico-MG
-188,2024-08-31,Atletico GO,Vitoria
-189,2024-08-31,Athletico-PR,Fortaleza
-190,2024-08-31,Cruzeiro,Sao Paulo
-191,2024-09-14,Vitoria,Juventude
-192,2024-09-14,Vasco,Palmeiras
-193,2024-09-14,Sao Paulo,Internacional
-194,2024-09-14,Gremio,Flamengo RJ
-195,2024-09-14,Fortaleza,Bahia
-196,2024-09-14,Cuiaba,Cruzeiro
-197,2024-09-14,Atletico-MG,Bragantino
-198,2024-09-14,Fluminense,Botafogo RJ
-199,2024-09-14,Criciuma,Athletico-PR
-200,2024-09-14,Corinthians,Atletico GO
-201,2024-09-21,Atletico GO,Fluminense
-202,2024-09-21,Bahia,Criciuma
-203,2024-09-21,Botafogo RJ,Gremio
-204,2024-09-21,Cruzeiro,Vasco
-205,2024-09-21,Flamengo RJ,Athletico-PR
-206,2024-09-21,Internacional,Vitoria
-207,2024-09-21,Juventude,Bragantino
-208,2024-09-21,Palmeiras,Atletico-MG
-209,2024-09-21,Sao Paulo,Corinthians
-210,2024-09-21,Fortaleza,Cuiaba
-211,2024-09-28,Cuiaba,Sao Paulo
-212,2024-09-28,Vasco,Juventude
-213,2024-09-28,Gremio,Fortaleza
-214,2024-09-28,Fluminense,Cruzeiro
-215,2024-09-28,Criciuma,Atletico GO
-216,2024-09-28,Bragantino,Palmeiras
-217,2024-09-28,Bahia,Flamengo RJ
-218,2024-09-28,Atletico-MG,Vitoria
-219,2024-09-28,Athletico-PR,Botafogo RJ
-220,2024-09-28,Corinthians,Internacional
-221,2024-10-04,Vitoria,Bragantino
-222,2024-10-04,Sao Paulo,Vasco
-223,2024-10-04,Juventude,Palmeiras
-224,2024-10-04,Internacional,Gremio
-225,2024-10-04,Fortaleza,Atletico-MG
-226,2024-10-04,Cruzeiro,Bahia
-227,2024-10-04,Corinthians,Athletico-PR
-228,2024-10-04,Botafogo RJ,Criciuma
-229,2024-10-04,Atletico GO,Cuiaba
-230,2024-10-04,Flamengo RJ,Fluminense
-231,2024-10-19,Vitoria,Fluminense
-232,2024-10-19,Vasco,Bahia
-233,2024-10-19,Palmeiras,Fortaleza
-234,2024-10-19,Gremio,Atletico GO
-235,2024-10-19,Criciuma,Sao Paulo
-236,2024-10-19,Cuiaba,Corinthians
-237,2024-10-19,Athletico-PR,Cruzeiro
-238,2024-10-19,Flamengo RJ,Juventude
-239,2024-10-19,Bragantino,Botafogo RJ
-240,2024-10-19,Atletico-MG,Internacional
-241,2024-10-25,Athletico-PR,Vitoria
-242,2024-10-25,Atletico GO,Atletico-MG
-243,2024-10-25,Bahia,Sao Paulo
-244,2024-10-25,Botafogo RJ,Vasco
-245,2024-10-25,Bragantino,Cuiaba
-246,2024-10-25,Cruzeiro,Flamengo RJ
-247,2024-10-25,Fluminense,Gremio
-248,2024-10-25,Internacional,Criciuma
-249,2024-10-25,Juventude,Fortaleza
-250,2024-10-25,Corinthians,Palmeiras
-251,2024-11-06,Juventude,Bahia
-252,2024-11-06,Vitoria,Corinthians
-253,2024-11-06,Sao Paulo,Athletico-PR
-254,2024-11-06,Palmeiras,Gremio
-255,2024-11-06,Internacional,Fluminense
-256,2024-11-06,Flamengo RJ,Atletico-MG
-257,2024-11-06,Cruzeiro,Criciuma
-258,2024-11-06,Botafogo RJ,Cuiaba
-259,2024-11-06,Atletico GO,Bragantino
-260,2024-11-06,Fortaleza,Vasco
-261,2024-11-20,Vasco,Internacional
-262,2024-11-20,Gremio,Juventude
-263,2024-11-20,Fluminense,Fortaleza
-264,2024-11-20,Cuiaba,Flamengo RJ
-265,2024-11-20,Criciuma,Vitoria
-266,2024-11-20,Bragantino,Sao Paulo
-267,2024-11-20,Bahia,Palmeiras
-268,2024-11-20,Atletico-MG,Botafogo RJ
-269,2024-11-20,Athletico-PR,Atletico GO
-270,2024-11-20,Corinthians,Cruzeiro
-271,2024-11-23,Sao Paulo,Atletico-MG
-272,2024-11-23,Juventude,Cuiaba
-273,2024-11-23,Internacional,Bragantino
-274,2024-11-23,Fortaleza,Flamengo RJ
-275,2024-11-23,Corinthians,Vasco
-276,2024-11-23,Cruzeiro,Gremio
-277,2024-11-23,Botafogo RJ,Vitoria
-278,2024-11-23,Bahia,Athletico-PR
-279,2024-11-23,Atletico GO,Palmeiras
-280,2024-11-23,Fluminense,Criciuma
-281,2024-11-30,Vitoria,Fortaleza
-282,2024-11-30,Vasco,Atletico GO
-283,2024-11-30,Palmeiras,Botafogo RJ
-284,2024-11-30,Gremio,Sao Paulo
-285,2024-11-30,Flamengo RJ,Internacional
-286,2024-11-30,Criciuma,Corinthians
-287,2024-11-30,Bragantino,Cruzeiro
-288,2024-11-30,Atletico-MG,Juventude
-289,2024-11-30,Athletico-PR,Fluminense
-290,2024-11-30,Cuiaba,Bahia
-291,2024-12-04,Vitoria,Gremio
-292,2024-12-04,Vasco,Atletico-MG
-293,2024-12-04,Sao Paulo,Juventude
-294,2024-12-04,Internacional,Botafogo RJ
-295,2024-12-04,Criciuma,Flamengo RJ
-296,2024-12-04,Cruzeiro,Palmeiras
-297,2024-12-04,Corinthians,Bahia
-298,2024-12-04,Atletico GO,Fortaleza
-299,2024-12-04,Athletico-PR,Bragantino
-300,2024-12-04,Fluminense,Cuiaba
-301,2024-12-08,Atletico-MG,Athletico-PR
-302,2024-12-08,Bahia,Atletico GO
-303,2024-12-08,Botafogo RJ,Sao Paulo
-304,2024-12-08,Bragantino,Criciuma
-305,2024-12-08,Cuiaba,Vasco
-306,2024-12-08,Flamengo RJ,Vitoria
-307,2024-12-08,Fortaleza,Internacional
-308,2024-12-08,Gremio,Corinthians
-309,2024-12-08,Juventude,Cruzeiro
-310,2024-12-08,Palmeiras,Fluminense
+data,home,away
+2024-06-09,Criciuma,Cuiaba
+2024-06-11,Bragantino,Atletico-MG
+2024-06-11,Atletico GO,Corinthians
+2024-06-11,Juventude,Vitoria
+2024-06-11,Botafogo RJ,Fluminense
+2024-06-13,Athletico-PR,Criciuma
+2024-06-13,Flamengo RJ,Gremio
+2024-06-13,Internacional,Sao Paulo
+2024-06-13,Bahia,Fortaleza
+2024-06-13,Palmeiras,Vasco
+2024-06-13,Cruzeiro,Cuiaba
+2024-06-15,Bragantino,Juventude
+2024-06-15,Fluminense,Atletico GO
+2024-06-16,Vasco,Cruzeiro
+2024-06-16,Athletico-PR,Flamengo RJ
+2024-06-16,Corinthians,Sao Paulo
+2024-06-16,Vitoria,Internacional
+2024-06-16,Criciuma,Bahia
+2024-06-16,Cuiaba,Fortaleza
+2024-06-16,Gremio,Botafogo RJ
+2024-06-17,Atletico-MG,Palmeiras
+2024-06-19,Atletico GO,Criciuma
+2024-06-19,Fortaleza,Gremio
+2024-06-19,Juventude,Vasco
+2024-06-19,Sao Paulo,Cuiaba
+2024-06-19,Cruzeiro,Fluminense
+2024-06-19,Internacional,Corinthians
+2024-06-19,Botafogo RJ,Athletico-PR
+2024-06-20,Vitoria,Atletico-MG
+2024-06-20,Flamengo RJ,Bahia
+2024-06-20,Palmeiras,Bragantino
+2024-06-22,Criciuma,Botafogo RJ
+2024-06-22,Cuiaba,Atletico GO
+2024-06-22,Vasco,Sao Paulo
+2024-06-23,Bragantino,Vitoria
+2024-06-23,Palmeiras,Juventude
+2024-06-23,Bahia,Cruzeiro
+2024-06-23,Atletico-MG,Fortaleza
+2024-06-23,Gremio,Internacional
+2024-06-23,Fluminense,Flamengo RJ
+2024-06-23,Athletico-PR,Corinthians
+2024-06-26,Bahia,Juventude
+2024-06-26,Fluminense,Internacional
+2024-06-26,Botafogo RJ,Bragantino
+2024-06-26,Corinthians,Cuiaba
+2024-06-26,Cruzeiro,Athletico-PR
+2024-06-26,Atletico GO,Gremio
+2024-06-26,Juventude,Flamengo RJ
+2024-06-26,Bahia,Vasco
+2024-06-26,Fortaleza,Palmeiras
+2024-06-26,Internacional,Atletico-MG
+2024-06-27,Fluminense,Vitoria
+2024-06-27,Sao Paulo,Criciuma
+2024-06-29,Palmeiras,Corinthians
+2024-06-29,Vasco,Botafogo RJ
+2024-06-29,Cuiaba,Bragantino
+2024-06-30,Atletico-MG,Atletico GO
+2024-06-30,Fortaleza,Juventude
+2024-06-30,Gremio,Fluminense
+2024-06-30,Sao Paulo,Bahia
+2024-06-30,Criciuma,Internacional
+2024-06-30,Flamengo RJ,Cruzeiro
+2024-06-30,Vitoria,Athletico-PR
+2024-07-03,Vasco,Fortaleza
+2024-07-03,Criciuma,Cruzeiro
+2024-07-03,Corinthians,Vitoria
+2024-07-03,Cuiaba,Botafogo RJ
+2024-07-03,Bragantino,Atletico GO
+2024-07-03,Vitoria,Botafogo RJ
+2024-07-03,Vasco,Corinthians
+2024-07-03,Atletico-MG,Flamengo RJ
+2024-07-03,Gremio,Cruzeiro
+2024-07-03,Palmeiras,Atletico GO
+2024-07-03,Athletico-PR,Bahia
+2024-07-03,Atletico-MG,Sao Paulo
+2024-07-03,Athletico-PR,Sao Paulo
+2024-07-03,Criciuma,Fluminense
+2024-07-03,Flamengo RJ,Fortaleza
+2024-07-03,Bragantino,Internacional
+2024-07-03,Cuiaba,Juventude
+2024-07-04,Gremio,Palmeiras
+2024-07-06,Atletico GO,Vasco
+2024-07-06,Bahia,Cuiaba
+2024-07-06,Botafogo RJ,Palmeiras
+2024-07-06,Corinthians,Criciuma
+2024-07-06,Cruzeiro,Bragantino
+2024-07-06,Fluminense,Athletico-PR
+2024-07-06,Internacional,Flamengo RJ
+2024-07-06,Juventude,Atletico-MG
+2024-07-06,Sao Paulo,Gremio
+2024-07-06,Flamengo RJ,Cuiaba
+2024-07-06,Sao Paulo,Bragantino
+2024-07-06,Vitoria,Criciuma
+2024-07-06,Fortaleza,Vitoria
+2024-07-07,Atletico GO,Athletico-PR
+2024-07-07,Fortaleza,Fluminense
+2024-07-07,Palmeiras,Bahia
+2024-07-07,Botafogo RJ,Atletico-MG
+2024-07-07,Juventude,Gremio
+2024-07-07,Cruzeiro,Corinthians
+2024-07-08,Internacional,Vasco
+2024-07-10,Atletico-MG,Vasco
+2024-07-10,Bahia,Corinthians
+2024-07-10,Botafogo RJ,Internacional
+2024-07-10,Bragantino,Athletico-PR
+2024-07-10,Cuiaba,Fluminense
+2024-07-10,Fortaleza,Atletico GO
+2024-07-10,Gremio,Vitoria
+2024-07-10,Juventude,Sao Paulo
+2024-07-10,Palmeiras,Cruzeiro
+2024-07-10,Flamengo RJ,Criciuma
+2024-07-17,Internacional,Fortaleza
+2024-07-17,Vasco,Cuiaba
+2024-07-17,Sao Paulo,Botafogo RJ
+2024-07-17,Vitoria,Flamengo RJ
+2024-07-17,Fluminense,Palmeiras
+2024-07-17,Criciuma,Bragantino
+2024-07-17,Cruzeiro,Juventude
+2024-07-17,Corinthians,Gremio
+2024-07-17,Athletico-PR,Atletico-MG
+2024-07-17,Atletico GO,Bahia
+2024-07-20,Atletico-MG,Corinthians
+2024-07-20,Bahia,Internacional
+2024-07-20,Botafogo RJ,Cruzeiro
+2024-07-20,Bragantino,Fluminense
+2024-07-20,Cuiaba,Athletico-PR
+2024-07-20,Flamengo RJ,Atletico GO
+2024-07-20,Fortaleza,Sao Paulo
+2024-07-20,Gremio,Vasco
+2024-07-20,Juventude,Criciuma
+2024-07-20,Palmeiras,Vitoria
+2024-07-27,Internacional,Palmeiras
+2024-07-27,Vitoria,Cuiaba
+2024-07-27,Vasco,Bragantino
+2024-07-27,Sao Paulo,Flamengo RJ
+2024-07-27,Fluminense,Bahia
+2024-07-27,Criciuma,Atletico-MG
+2024-07-27,Corinthians,Juventude
+2024-07-27,Atletico GO,Botafogo RJ
+2024-07-27,Athletico-PR,Gremio
+2024-07-27,Cruzeiro,Fortaleza
+2024-08-03,Vasco,Fluminense
+2024-08-03,Sao Paulo,Atletico GO
+2024-08-03,Juventude,Botafogo RJ
+2024-08-03,Internacional,Athletico-PR
+2024-08-03,Fortaleza,Criciuma
+2024-08-03,Cuiaba,Gremio
+2024-08-03,Cruzeiro,Atletico-MG
+2024-08-03,Corinthians,Bragantino
+2024-08-03,Bahia,Vitoria
+2024-08-03,Flamengo RJ,Palmeiras
+2024-08-10,Athletico-PR,Juventude
+2024-08-10,Atletico GO,Internacional
+2024-08-10,Atletico-MG,Cuiaba
+2024-08-10,Botafogo RJ,Flamengo RJ
+2024-08-10,Bragantino,Fortaleza
+2024-08-10,Fluminense,Corinthians
+2024-08-10,Vitoria,Cruzeiro
+2024-08-10,Criciuma,Vasco
+2024-08-10,Gremio,Bahia
+2024-08-10,Palmeiras,Sao Paulo
+2024-08-17,Atletico GO,Juventude
+2024-08-17,Atletico-MG,Fluminense
+2024-08-17,Bahia,Botafogo RJ
+2024-08-17,Criciuma,Gremio
+2024-08-17,Flamengo RJ,Bragantino
+2024-08-17,Fortaleza,Corinthians
+2024-08-17,Internacional,Cruzeiro
+2024-08-17,Palmeiras,Cuiaba
+2024-08-17,Sao Paulo,Vitoria
+2024-08-17,Vasco,Athletico-PR
+2024-08-24,Vitoria,Vasco
+2024-08-24,Juventude,Internacional
+2024-08-24,Gremio,Atletico-MG
+2024-08-24,Fluminense,Sao Paulo
+2024-08-24,Cuiaba,Criciuma
+2024-08-24,Corinthians,Flamengo RJ
+2024-08-24,Bragantino,Bahia
+2024-08-24,Botafogo RJ,Fortaleza
+2024-08-24,Athletico-PR,Palmeiras
+2024-08-24,Cruzeiro,Atletico GO
+2024-08-31,Palmeiras,Criciuma
+2024-08-31,Juventude,Fluminense
+2024-08-31,Internacional,Cuiaba
+2024-08-31,Flamengo RJ,Vasco
+2024-08-31,Bragantino,Gremio
+2024-08-31,Botafogo RJ,Corinthians
+2024-08-31,Bahia,Atletico-MG
+2024-08-31,Atletico GO,Vitoria
+2024-08-31,Athletico-PR,Fortaleza
+2024-08-31,Cruzeiro,Sao Paulo
+2024-09-14,Vitoria,Juventude
+2024-09-14,Vasco,Palmeiras
+2024-09-14,Sao Paulo,Internacional
+2024-09-14,Gremio,Flamengo RJ
+2024-09-14,Fortaleza,Bahia
+2024-09-14,Cuiaba,Cruzeiro
+2024-09-14,Atletico-MG,Bragantino
+2024-09-14,Fluminense,Botafogo RJ
+2024-09-14,Criciuma,Athletico-PR
+2024-09-14,Corinthians,Atletico GO
+2024-09-21,Atletico GO,Fluminense
+2024-09-21,Bahia,Criciuma
+2024-09-21,Botafogo RJ,Gremio
+2024-09-21,Cruzeiro,Vasco
+2024-09-21,Flamengo RJ,Athletico-PR
+2024-09-21,Internacional,Vitoria
+2024-09-21,Juventude,Bragantino
+2024-09-21,Palmeiras,Atletico-MG
+2024-09-21,Sao Paulo,Corinthians
+2024-09-21,Fortaleza,Cuiaba
+2024-09-28,Cuiaba,Sao Paulo
+2024-09-28,Vasco,Juventude
+2024-09-28,Gremio,Fortaleza
+2024-09-28,Fluminense,Cruzeiro
+2024-09-28,Criciuma,Atletico GO
+2024-09-28,Bragantino,Palmeiras
+2024-09-28,Bahia,Flamengo RJ
+2024-09-28,Atletico-MG,Vitoria
+2024-09-28,Athletico-PR,Botafogo RJ
+2024-09-28,Corinthians,Internacional
+2024-10-04,Vitoria,Bragantino
+2024-10-04,Sao Paulo,Vasco
+2024-10-04,Juventude,Palmeiras
+2024-10-04,Internacional,Gremio
+2024-10-04,Fortaleza,Atletico-MG
+2024-10-04,Cruzeiro,Bahia
+2024-10-04,Corinthians,Athletico-PR
+2024-10-04,Botafogo RJ,Criciuma
+2024-10-04,Atletico GO,Cuiaba
+2024-10-04,Flamengo RJ,Fluminense
+2024-10-19,Vitoria,Fluminense
+2024-10-19,Vasco,Bahia
+2024-10-19,Palmeiras,Fortaleza
+2024-10-19,Gremio,Atletico GO
+2024-10-19,Criciuma,Sao Paulo
+2024-10-19,Cuiaba,Corinthians
+2024-10-19,Athletico-PR,Cruzeiro
+2024-10-19,Flamengo RJ,Juventude
+2024-10-19,Bragantino,Botafogo RJ
+2024-10-19,Atletico-MG,Internacional
+2024-10-25,Athletico-PR,Vitoria
+2024-10-25,Atletico GO,Atletico-MG
+2024-10-25,Bahia,Sao Paulo
+2024-10-25,Botafogo RJ,Vasco
+2024-10-25,Bragantino,Cuiaba
+2024-10-25,Cruzeiro,Flamengo RJ
+2024-10-25,Fluminense,Gremio
+2024-10-25,Internacional,Criciuma
+2024-10-25,Juventude,Fortaleza
+2024-10-25,Corinthians,Palmeiras
+2024-11-06,Juventude,Bahia
+2024-11-06,Vitoria,Corinthians
+2024-11-06,Sao Paulo,Athletico-PR
+2024-11-06,Palmeiras,Gremio
+2024-11-06,Internacional,Fluminense
+2024-11-06,Flamengo RJ,Atletico-MG
+2024-11-06,Cruzeiro,Criciuma
+2024-11-06,Botafogo RJ,Cuiaba
+2024-11-06,Atletico GO,Bragantino
+2024-11-06,Fortaleza,Vasco
+2024-11-20,Vasco,Internacional
+2024-11-20,Gremio,Juventude
+2024-11-20,Fluminense,Fortaleza
+2024-11-20,Cuiaba,Flamengo RJ
+2024-11-20,Criciuma,Vitoria
+2024-11-20,Bragantino,Sao Paulo
+2024-11-20,Bahia,Palmeiras
+2024-11-20,Atletico-MG,Botafogo RJ
+2024-11-20,Athletico-PR,Atletico GO
+2024-11-20,Corinthians,Cruzeiro
+2024-11-23,Sao Paulo,Atletico-MG
+2024-11-23,Juventude,Cuiaba
+2024-11-23,Internacional,Bragantino
+2024-11-23,Fortaleza,Flamengo RJ
+2024-11-23,Corinthians,Vasco
+2024-11-23,Cruzeiro,Gremio
+2024-11-23,Botafogo RJ,Vitoria
+2024-11-23,Bahia,Athletico-PR
+2024-11-23,Atletico GO,Palmeiras
+2024-11-23,Fluminense,Criciuma
+2024-11-30,Vitoria,Fortaleza
+2024-11-30,Vasco,Atletico GO
+2024-11-30,Palmeiras,Botafogo RJ
+2024-11-30,Gremio,Sao Paulo
+2024-11-30,Flamengo RJ,Internacional
+2024-11-30,Criciuma,Corinthians
+2024-11-30,Bragantino,Cruzeiro
+2024-11-30,Atletico-MG,Juventude
+2024-11-30,Athletico-PR,Fluminense
+2024-11-30,Cuiaba,Bahia
+2024-12-04,Vitoria,Gremio
+2024-12-04,Vasco,Atletico-MG
+2024-12-04,Sao Paulo,Juventude
+2024-12-04,Internacional,Botafogo RJ
+2024-12-04,Criciuma,Flamengo RJ
+2024-12-04,Cruzeiro,Palmeiras
+2024-12-04,Corinthians,Bahia
+2024-12-04,Atletico GO,Fortaleza
+2024-12-04,Athletico-PR,Bragantino
+2024-12-04,Fluminense,Cuiaba
+2024-12-08,Atletico-MG,Athletico-PR
+2024-12-08,Bahia,Atletico GO
+2024-12-08,Botafogo RJ,Sao Paulo
+2024-12-08,Bragantino,Criciuma
+2024-12-08,Cuiaba,Vasco
+2024-12-08,Flamengo RJ,Vitoria
+2024-12-08,Fortaleza,Internacional
+2024-12-08,Gremio,Corinthians
+2024-12-08,Juventude,Cruzeiro
+2024-12-08,Palmeiras,Fluminense
