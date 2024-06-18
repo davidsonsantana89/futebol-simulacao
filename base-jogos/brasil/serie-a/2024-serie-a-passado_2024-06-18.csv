@@ -1,0 +1,86 @@
+data,home,away,FTHG,FTAG
+2024-04-13,Internacional,Bahia,2,1
+2024-04-13,Criciuma,Juventude,1,1
+2024-04-13,Sao Paulo,Fortaleza,1,2
+2024-04-13,Fluminense,Bragantino,2,2
+2024-04-14,Vasco,Gremio,2,1
+2024-04-14,Corinthians,Atletico-MG,0,0
+2024-04-14,Atletico GO,Flamengo RJ,1,2
+2024-04-14,Athletico-PR,Cuiaba,4,0
+2024-04-14,Cruzeiro,Botafogo RJ,3,2
+2024-04-14,Vitoria,Palmeiras,0,1
+2024-04-16,Bahia,Fluminense,2,1
+2024-04-17,Gremio,Athletico-PR,2,0
+2024-04-17,Bragantino,Vasco,2,1
+2024-04-17,Palmeiras,Internacional,0,1
+2024-04-17,Juventude,Corinthians,2,0
+2024-04-17,Fortaleza,Cruzeiro,1,1
+2024-04-17,Atletico-MG,Criciuma,1,1
+2024-04-17,Flamengo RJ,Sao Paulo,2,1
+2024-04-18,Botafogo RJ,Atletico GO,1,0
+2024-04-20,Fluminense,Vasco,2,1
+2024-04-20,Gremio,Cuiaba,1,0
+2024-04-20,Bragantino,Corinthians,1,0
+2024-04-20,Atletico-MG,Cruzeiro,3,0
+2024-04-21,Vitoria,Bahia,2,2
+2024-04-21,Palmeiras,Flamengo RJ,0,0
+2024-04-21,Athletico-PR,Internacional,1,0
+2024-04-21,Botafogo RJ,Juventude,5,1
+2024-04-21,Atletico GO,Sao Paulo,0,3
+2024-04-27,Vasco,Criciuma,0,4
+2024-04-27,Cuiaba,Atletico-MG,0,3
+2024-04-27,Bahia,Gremio,1,0
+2024-04-28,Flamengo RJ,Botafogo RJ,0,2
+2024-04-28,Cruzeiro,Vitoria,3,1
+2024-04-28,Corinthians,Fluminense,3,0
+2024-04-28,Juventude,Athletico-PR,1,1
+2024-04-28,Fortaleza,Bragantino,1,1
+2024-04-28,Internacional,Atletico GO,1,1
+2024-04-29,Sao Paulo,Palmeiras,0,0
+2024-05-04,Fluminense,Atletico-MG,2,2
+2024-05-04,Bragantino,Flamengo RJ,1,1
+2024-05-04,Corinthians,Fortaleza,0,0
+2024-05-05,Vitoria,Sao Paulo,1,3
+2024-05-05,Athletico-PR,Vasco,1,0
+2024-05-05,Cuiaba,Palmeiras,0,2
+2024-05-05,Botafogo RJ,Bahia,1,2
+2024-05-11,Flamengo RJ,Corinthians,2,0
+2024-05-12,Palmeiras,Athletico-PR,0,2
+2024-05-12,Fortaleza,Botafogo RJ,1,1
+2024-05-12,Atletico GO,Cruzeiro,0,1
+2024-05-12,Vasco,Vitoria,2,1
+2024-05-12,Bahia,Bragantino,1,0
+2024-05-13,Sao Paulo,Fluminense,2,1
+2024-06-01,Vitoria,Atletico GO,0,2
+2024-06-01,Gremio,Bragantino,0,2
+2024-06-01,Fluminense,Juventude,1,1
+2024-06-01,Cuiaba,Internacional,0,1
+2024-06-01,Corinthians,Botafogo RJ,0,1
+2024-06-02,Vasco,Flamengo RJ,1,6
+2024-06-02,Criciuma,Palmeiras,1,2
+2024-06-02,Atletico-MG,Bahia,1,1
+2024-06-02,Sao Paulo,Cruzeiro,2,0
+2024-06-02,Fortaleza,Athletico-PR,1,0
+2024-06-05,Juventude,Atletico GO,1,0
+2024-06-05,Cuiaba,Vitoria,0,0
+2024-06-09,Criciuma,Cuiaba,2,5
+2024-06-11,Juventude,Vitoria,1,1
+2024-06-11,Atletico GO,Corinthians,2,2
+2024-06-11,Botafogo RJ,Fluminense,1,0
+2024-06-11,Bragantino,Atletico-MG,1,2
+2024-06-13,Cruzeiro,Cuiaba,2,1
+2024-06-13,Internacional,Sao Paulo,0,0
+2024-06-13,Flamengo RJ,Gremio,2,1
+2024-06-13,Athletico-PR,Criciuma,3,1
+2024-06-13,Palmeiras,Vasco,2,0
+2024-06-13,Bahia,Fortaleza,1,0
+2024-06-15,Bragantino,Juventude,2,1
+2024-06-15,Fluminense,Atletico GO,1,2
+2024-06-16,Vitoria,Internacional,2,1
+2024-06-16,Corinthians,Sao Paulo,2,2
+2024-06-16,Athletico-PR,Flamengo RJ,1,1
+2024-06-16,Vasco,Cruzeiro,0,0
+2024-06-16,Gremio,Botafogo RJ,1,2
+2024-06-16,Cuiaba,Fortaleza,5,0
+2024-06-16,Criciuma,Bahia,2,2
+2024-06-17,Atletico-MG,Palmeiras,0,4
